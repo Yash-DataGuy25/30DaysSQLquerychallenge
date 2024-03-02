@@ -16,7 +16,7 @@ Each challenge will focus on different aspects of SQL and data analysis.
 - Solutions to each challenge will be provided in SQL format.
 - Feel free to follow along, learn, and collaborate on the solutions.
 ## Connect
-- Connect with me on LinkedIn:
+- Connect with me on LinkedIn: [https://www.linkedin.com/in/yaswanthv1/]
 - Follow me on GitHub for more updates and projects.
   
 Let's dive into the world of SQL and unravel the data mysteries together! 💻 #SQL #DataAnalysis #ChallengeAccepted 🌟
