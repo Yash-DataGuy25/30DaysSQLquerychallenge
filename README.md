@@ -3,7 +3,7 @@ Welcome to my 30-Day SQL Query Challenge repository!
 
 ## Overview
 
-This repository is dedicated to the 30-Day SQL Query Challenge. Over the next 30 days, I will be completing a SQL query challenge each day to enhance my SQL skills and explore data intricacies.
+This repository is dedicated to the 30-Day SQL Query Challenge initiated by techTFQ (http://www.youtube.com/@techTFQ). Over the next 30 days, I will be completing a SQL query challenge each day to enhance my SQL skills and explore data intricacies.
 
 ## Challenge Details
 
