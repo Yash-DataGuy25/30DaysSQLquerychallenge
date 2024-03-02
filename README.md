@@ -7,7 +7,7 @@ This repository is dedicated to the 30-Day SQL Query Challenge initiated by tech
 
 ## Challenge Details
 
-I will be posting a new SQL query challenge daily for the next 30 days.
+I will be posting a solution for a new SQL query challenge postd by techTFQ daily for the next 30 days.
 Each challenge will focus on different aspects of SQL and data analysis.
 
 ## How to Use
